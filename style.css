@@ -1,1 +1,9 @@
 /* YOUR STYLES HERE */
+.Smalltxt{
+    color:#ffdb6d;
+    text-align: center;
+    border-color: #ffdb6d;
+    border-width: 3px;
+    padding: 1rem;
+    background-color: #1d2531;
+}
